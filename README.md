@@ -1,0 +1,2 @@
+# bootOptimization2
+用更为简单的方式表达出策略模式的作用，并配合spring工厂模式
